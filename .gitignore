@@ -1,0 +1,28 @@
+﻿node_modules/
+dist/
+.netlify/
+
+.env
+.env.*
+!.env.example
+
+*.log
+*.backup
+*.backup-*
+
+*.pem
+*.key
+*.p12
+
+# Keep interpreter/video assets out of GitHub
+*.mp4
+
+# Internal development/review notes
+REVIEW_V2_*.md
+VISUAL_OVERHAUL_V2*.md
+TRANSCRIPT_FEEDBACK_V2_11.md
+MEHDI_FEEDBACK_UPDATE.md
+MEHDI_SCREEN_REVIEW_V2_7.md
+
+# Local backup files
+*.backup*

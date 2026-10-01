@@ -1,0 +1,6 @@
+{
+  "name": "Waterloo Airport Accessibility Companion",
+  "description": "High-fidelity mobile accessibility companion prototype for Waterloo Region International Airport (YKF), designed for Deaf and hard-of-hearing passengers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
